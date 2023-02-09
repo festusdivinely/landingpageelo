@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landingpageelo/static/css/main.55410315.css",
+    "main.js": "/landingpageelo/static/js/main.3cfe3d96.js",
+    "static/media/scene.png": "/landingpageelo/static/media/scene.0c9a4cc167442c9b3806.png",
+    "static/media/mockup.png": "/landingpageelo/static/media/mockup.db6381a867d29be0934a.png",
+    "static/media/feature.png": "/landingpageelo/static/media/feature.54eb71fb8a918fd5e4f6.png",
+    "static/media/home_hero.png": "/landingpageelo/static/media/home_hero.08651b83de3b3167695a.png",
+    "static/media/home_cards.png": "/landingpageelo/static/media/home_cards.c5b24fac95f88325335b.png",
+    "static/media/react.png": "/landingpageelo/static/media/react.9667fe052f9577c58a34.png",
+    "static/media/banner02.svg": "/landingpageelo/static/media/banner02.ecf5527b1f6a72923dc5.svg",
+    "static/media/banner03.svg": "/landingpageelo/static/media/banner03.d47bf3891190bc1a7c07.svg",
+    "static/media/banner.svg": "/landingpageelo/static/media/banner.cbc991c90354e2e4985a.svg",
+    "static/media/banner04.svg": "/landingpageelo/static/media/banner04.cb811a6412851b9dff9f.svg",
+    "index.html": "/landingpageelo/index.html",
+    "main.55410315.css.map": "/landingpageelo/static/css/main.55410315.css.map",
+    "main.3cfe3d96.js.map": "/landingpageelo/static/js/main.3cfe3d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55410315.css",
+    "static/js/main.3cfe3d96.js"
+  ]
+}
